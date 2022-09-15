@@ -1,0 +1,71 @@
+
+#title{
+    color: #ffff;
+}
+
+.navbar{
+    background-color: #ff4c68; 
+    height :150px;
+}
+.container-fluid{
+    background-color: #ff4c68;
+    padding: 3% 15%;
+}
+.phonephoto{
+    background-color: #ff4c68;
+
+}
+.easy{
+    width: 300px; 
+    margin:auto ;
+}
+.icon{
+    font-size: 60px;
+    color: #ef8172;
+    margin-top: 30px; 
+    margin-left: 40%; 
+    margin-bottom: 20px;
+}
+.icon:hover{
+    color: rgb(59, 4, 104);
+}
+#features{
+    padding: 6% 12%;
+}
+
+#testimonials{
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #ef8172;
+    color: #ffff;
+}
+.testimonials-image{
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+
+}
+#press{
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 3%;
+}
+.press-logo{
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+.card-body{
+    text-align: center;
+}
+.card-img-top{
+    margin: 2%;
+}
+#cta{
+    background-color: #ff4c68;
+    text-align: center;
+    padding: 5%;
+}
+#footer{
+    text-align: center;
+    padding: 4%;
+}
